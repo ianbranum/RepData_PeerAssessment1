@@ -166,6 +166,7 @@ xyplot(steps ~ interval | we, data=activity2, layout=c(1,2))
 ![plot of chunk unnamed-chunk-13](figure/unnamed-chunk-13-1.png) 
 <br/>
 
+Indeed there appears to be a difference between weekend and weekday activity. Specifically, a lot more activity earlier on weekday. That is about all I see. 
 
 
 
